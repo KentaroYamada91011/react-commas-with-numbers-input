@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+    "url": "https://github.com/KentaroYamada91011/react-commas-with-numbers-input/issues",
+    "email": "kentaro91011yamada@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KentaroYamada91011/react-commas-with-numbers-input.git"
+  },
   "keywords": [
     "commas","react", "number field", "commas with numbers"
   ],
   "author": "kentaro_tanaka <kentaro91011yamada@gmail.com> (http:/example.com)",
-  "license": "ISC"
+  "license": "MIT",
+  "private": false
 }
