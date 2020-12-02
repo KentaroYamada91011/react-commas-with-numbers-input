@@ -1,4 +1,4 @@
-const lodash = require('loadash')
-exports.printMsg = () => {
-  console.log('This is a demo')
-}
+function log(msg){
+  console.log(msg);
+};
+module.exports = log;
